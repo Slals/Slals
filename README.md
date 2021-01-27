@@ -18,15 +18,28 @@ Bon, pas de thunes sans proposition de valeur, pas de proposition de valeur sans
 
 🎉 __Bonne nouvelle__, le travail c'est chiant, vous n'aurez pas à le faire. On se [contacte](https://blocs.fr), on discute de la proposition de valeur, et je m'applique... Ca va rapporter.
 
-(Peut-être que j'essaierai de claquer des doigts avant, on sait jamais)
+(Peut-être que j'essaierais de claquer des doigts avant, on sait jamais)
 
 ## 🧵 Articles récents !
 
 <!-- BLOG-POST-LIST:START -->
-- [Servir Bitcoin et Lightning Network en étant anonyme avec Tor](https://blocs.fr/articles/bitcoin-et-lightning-anonyme-avec-tor)
-- [Installer un nœud Lightning Network](https://blocs.fr/articles/installer-un-noeud-lightning-network)
-- [Configurer son nœud Bitcoin Lightning Network](https://blocs.fr/articles/configurer-un-noeud-lightning-network)
+
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Pinned Repositories -->
 
+
+## 🤖 Nous sommes des numéros
+
+<br>
+
+<a href="https://github.com/slals">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slals&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Les stats de Jonathan Blocs" />
+</a>
+
+<a href="https://github.com/slals">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=slals&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Les stats de Jonathan Blocs" />
+</a>
+
+<br>
+<br>
