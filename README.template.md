@@ -18,7 +18,7 @@ Bon, pas de thunes sans proposition de valeur, pas de proposition de valeur sans
 
 🎉 __Bonne nouvelle__, le travail c'est chiant, vous n'aurez pas à le faire. On se [contacte](https://blocs.fr), on discute de la proposition de valeur, et je m'applique... Ca va rapporter.
 
-(Peut-être que j'essaierai de claquer des doigts avant, on sait jamais)
+(Peut-être que j'essaierais de claquer des doigts avant, on sait jamais)
 
 ## 🧵 Articles récents !
 
