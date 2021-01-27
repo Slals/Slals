@@ -7,7 +7,7 @@ async function main() {
         await fs.readFile(path.join(process.cwd(), "./README.template.md"))
     ).toString("utf-8");
 
-    await fs.writeFile("README.md", readme);
+    await fs.writeFile("README.md", readmeTemplate);
 }
 
 main();
