@@ -1,0 +1,12 @@
+{
+  "name": "Slals",
+  "version": "1.0.0",
+  "description": "Bienvenue sur mon profil :)",
+  "main": "index.js",
+  "repository": "git@github.com:Slals/Slals.git",
+  "author": "Slals <jonathan@blocs.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "3.1.0"
+  }
+}
