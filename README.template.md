@@ -28,3 +28,18 @@ Bon, pas de thunes sans proposition de valeur, pas de proposition de valeur sans
 
 <!-- Pinned Repositories -->
 
+
+## 🤖 Nous sommes des numéros
+
+<br>
+
+<a href="https://github.com/slals">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slals&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Les stats de Jonathan Blocs" />
+</a>
+
+<a href="https://github.com/slals">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=slals&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Les stats de Jonathan Blocs" />
+</a>
+
+<br>
+<br>
