@@ -34,7 +34,7 @@ Bon, pas de thunes sans proposition de valeur, pas de proposition de valeur sans
 <br>
 
 <a href="https://github.com/slals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slals&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Les stats de Jonathan Blocs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slals&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Les stats de Jonathan Serra Blocs" />
 </a>
 
 <br>
