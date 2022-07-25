@@ -23,7 +23,11 @@ Bon, pas de thunes sans proposition de valeur, pas de proposition de valeur sans
 ## 🧵 Articles récents !
 
 <!-- BLOG-POST-LIST:START -->
-
+- [1 - Mastering the Lightning Network - Comprendre Bitcoin et le Lightning Network](https://blocs.fr/blog/mastering-the-lightning-network-1/)
+- [10 - Mastering the Lightning Network - Les messages sur Lightning Network &lpar;TLV, e2e encryption&rpar;](https://blocs.fr/blog/mastering-the-lightning-network-10/)
+- [11 - Mastering the Lightning Network - Informations Paiement et vie privée en vidéo](https://blocs.fr/blog/mastering-the-lightning-network-11/)
+- [12 - Mastering the Lightning Network - Chapitre final en vidéo](https://blocs.fr/blog/mastering-the-lightning-network-12/)
+- [2 - Mastering the Lightning Network - Paiement avec Bitcoin et Lightning Network](https://blocs.fr/blog/mastering-the-lightning-network-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Pinned Repositories -->
