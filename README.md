@@ -1,40 +1,42 @@
-[![Updated Badge](https://badges.pufler.dev/updated/slals/slals)](https://blocs.fr)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_blocs)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/serrajonathan/)
+[![Updated Badge](https://raw.githubusercontent.com/drknzz/GitHub-Achievements/refs/heads/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png)](https://blocs.fr)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonathan-serra-cto/)
 
+# Jonathan Serra - Chief Technology Officer & Tech Lead & Open Source Advocate
 
-# 💸 Découvrez comment gagner plein d'argent en masse !
+*Transforming ideas into scalable technology solutions through 12 years of engineering excellence*
 
-Claquez des doigts... Et voyez... Patientez... Hum, toujours rien ? Vraisemblablement ça ne semble pas fonctionner 🤔
+## Professional Journey
 
-# Une autre idée pour gagner de l'argent en pagaille 💰 !
+With over **12 years of experience** in technology leadership, I've evolved from a passionate software engineer to a strategic CTO, guiding teams of up to **10 talented individuals** through complex technical challenges and business transformations.
 
-Créer de la proposition de valeur, c'est ça l'eldorado que vous cherchez, c'est bien pour vous, et pour tout le monde, cool non ?
+### Entrepreneurial Ventures
 
-Bon, pas de thunes sans proposition de valeur, pas de proposition de valeur sans travail. Perso j'ai déjà essayé de claquer des doigts à plusieurs reprises, mais jamais rien. En revanche, en m'appliquant j'ai déjà créé de la proposition de valeur, et vous savez à quoi ça mène ? (Je l'ai dit juste au dessus, de la thune en pagaille c'est dingue !). Mais ça c'est accéssible
+I've founded **two innovative startups**, including one that successfully secured **seed funding**. My expertise spans critical domains:
 
-## En faisant le travail, le labeur, le turbin ! 
+- **Fintech**: Building secure, scalable financial technology solutions
+- **Cryptography**: Implementing robust security protocols and encryption systems  
+- **P2P Networks**: Architecting decentralized, peer-to-peer communication systems
 
-🎉 __Bonne nouvelle__, le travail c'est chiant, vous n'aurez pas à le faire. On se [contacte](https://blocs.fr), on discute de la proposition de valeur, et je m'applique... Ca va rapporter.
+## 📚 Educational Leadership
 
-(Peut-être que j'essaierais de claquer des doigts avant, on sait jamais)
+I'm passionate about sharing knowledge and advancing the software engineering community through educational content at **[blocs.fr/blog](https://blocs.fr/blog)**. My articles focus on practical software computing concepts, helping developers master complex technical challenges.
 
-## 🧵 Articles récents !
+## 🌟 Open Source Contributions
 
-<!-- BLOG-POST-LIST:START -->
+I believe in the power of open source to drive innovation. Here are some of my most significant contributions:
 
-<!-- BLOG-POST-LIST:END -->
+### 🔐 **Serpent Cipher in Rust**
+- **Repository**: [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers/pull/60)
+- **Impact**: Implemented the Serpent block cipher, enhancing Rust's cryptographic ecosystem
 
-<!-- Pinned Repositories -->
+### ₿ **Bitcoin Core**
+- **Repository**: [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
+- **Impact**: Worked on multiple BIPs 2016 - 2020
 
+### 🎬 **FFmpeg Multimedia Framework**
+- **Repository**: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- **Impact**: Updated codecs optimisation (AVC, ProRes)
 
-## 🤖 Nous sommes des numéros
+---
 
-<br>
-
-<a href="https://github.com/slals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slals&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Les stats de Jonathan Serra Blocs" />
-</a>
-
-<br>
-<br>
+*"The best way to predict the future is to code it."* - Let's build something extraordinary together.
