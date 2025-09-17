@@ -1,4 +1,4 @@
-[![Updated Badge](https://raw.githubusercontent.com/drknzz/GitHub-Achievements/refs/heads/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png)](https://blocs.fr)
+[![Updated Badge](https://img.shields.io/badge/blocs.fr-blue)](https://blocs.fr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonathan-serra-cto/)
 
 # Jonathan Serra - Chief Technology Officer & Tech Lead & Open Source Advocate
